@@ -41,3 +41,17 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
+### Drizzle ORM Documentation
+- [Drizzle ORM Documentation](https://orm.drizzle.team/docs) - learn about Drizzle ORM features and API.
+- [Drizzle Studio](https://orm.drizzle.team/drizzle-studio/overview) - a visual interface for managing your database schema and data.
+
+## Running Drizzle Commands
+To run Drizzle commands, you can use the following commands in your terminal:
+
+```bash
+bun drizzle-kit push
+bun drizzle-kit generate
+bunx drizzle-kit studio
+```
